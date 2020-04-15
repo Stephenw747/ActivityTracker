@@ -54,7 +54,7 @@ public class Main {
 		String answer = console.nextLine();
 		
 		if (answer == "Yes"){
-				System.out.print("Your Kilometers ran is: " + kilometers);
+				System.out.println("Your Kilometers ran is: " + kilometers);
 			} else if (answer == "No") {
 				System.out.println("Ok what would you like to do next?");
 			} else {
